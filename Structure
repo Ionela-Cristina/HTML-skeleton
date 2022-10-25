@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>  < ! ╌ <!DOCTYPE> tells the browser this is a file .html and some standards apply to it ╌>
 <html>
   <head>
     <title>This is my first page</title>
