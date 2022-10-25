@@ -6,4 +6,5 @@ To define the structure of a web page first, I have to create the skeleton then 
 In a perfect world the skeleton is just a skeleton isn't?
 But we need more!
 
-We need CSS/Makeup to give colors to the page and JavaScript to make them alive and interactive or we may need Pyton if we want to add machine learning, data visualisation or data analysis.
+We need CSS/Makeup to give colors to the page and JavaScript to make them alive and interactive or we may need Pyton if we want to add machine learning, data visualisation or data analysis or ....ups! there are almost 9000 coding languages out there🤷‍♀️.
+However, put your glasess 😎 on and let's start with one. 
